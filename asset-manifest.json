@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SongApp/static/css/main.e4ddabf7.chunk.css",
+    "main.js": "/SongApp/static/js/main.4bf63bd3.chunk.js",
+    "main.js.map": "/SongApp/static/js/main.4bf63bd3.chunk.js.map",
+    "runtime-main.js": "/SongApp/static/js/runtime-main.71d76dee.js",
+    "runtime-main.js.map": "/SongApp/static/js/runtime-main.71d76dee.js.map",
+    "static/js/2.198bd494.chunk.js": "/SongApp/static/js/2.198bd494.chunk.js",
+    "static/js/2.198bd494.chunk.js.map": "/SongApp/static/js/2.198bd494.chunk.js.map",
+    "index.html": "/SongApp/index.html",
+    "static/css/main.e4ddabf7.chunk.css.map": "/SongApp/static/css/main.e4ddabf7.chunk.css.map",
+    "static/js/2.198bd494.chunk.js.LICENSE.txt": "/SongApp/static/js/2.198bd494.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71d76dee.js",
+    "static/js/2.198bd494.chunk.js",
+    "static/css/main.e4ddabf7.chunk.css",
+    "static/js/main.4bf63bd3.chunk.js"
+  ]
+}

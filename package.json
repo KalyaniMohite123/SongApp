@@ -1,5 +1,6 @@
 {
   "name": "melody",
+  "homepage": "https://kalyanimohite123.github.io/SongApp/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,18 +10,21 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.6.0",
-    "node-sass": "^4.14.1",
+    "gh-pages": "^4.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-fontawesome": "^1.7.1",
     "react-scripts": "4.0.1",
+    "sass": "^1.50.0",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
